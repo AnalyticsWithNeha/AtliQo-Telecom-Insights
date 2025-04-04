@@ -25,10 +25,15 @@ The main goal of this project is to support **data-driven decision-making** by i
 
 | **Technology** | **Purpose** |
 |----------------|-------------|
-| 📊 **Excel** | Data Cleaning, Sorting, Pivoting |
+| 📊 **Excel** | Data Cleaning, Sorting, Pivot Tables |
 | 📈 **Power BI** | Interactive Dashboards, KPI Reporting, Insights Visualization |
 
 ---
+
+## 🖼️ Dashboard Screenshot
+Below us a preview of the interactive Power BI dashboard used in this project:
+
+![Dashboard Screenshot](DA-Real Project - 3 - Overview.PNG)
 
 ## Clone the repository:
 ```bash
@@ -36,15 +41,15 @@ git clone https://github.com/AnalyticsWithNeha/AtliQo-Telecom-Insights.git
 ```
 ---
 
-## Contributing
-Contributions are welcome! if you'd like to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
+## 🤝 Contributing
+Contributions are welcome! If you'd like to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
 
 ---
 
-## License
+## 📄 License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
+## 📬 Contact
 For any questions or feedback, feel free to reach out:
 - **Name**: Neha Chauhan
 - **Email**: analyticswithneha@gmail.com
