@@ -31,9 +31,9 @@ The main goal of this project is to support **data-driven decision-making** by i
 ---
 
 ## 🖼️ Dashboard Screenshot
-Below us a preview of the interactive Power BI dashboard used in this project:
+Below is a preview of the interactive Power BI dashboard used in this project:
 
-![Dashboard Screenshot](DA-Real Project - 3 - Overview.PNG)
+![Dashboard Screenshot](dashboard-preview.png)
 
 ## Clone the repository:
 ```bash
@@ -71,3 +71,4 @@ For any questions or feedback, feel free to reach out:
  ┣ 📜 AtliQo-Insights.pbix   # PowerBI Dashboard
  ┣ 📜 README.md              # Project Documentation
  ┣ 📜 LICENSE                # MIT License
+``` 
